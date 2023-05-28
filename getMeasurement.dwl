@@ -1,5 +1,6 @@
 fun getMeasurement(value: Number, unit: String)=
 {
     unit: unit,
-    value: value
+    value: value,
+    code: code
 }
