@@ -1,4 +1,4 @@
-fun getMeasurment(value: Number, unit: String)=
+fun getMeasurement(value: Number, unit: String)=
 {
     unit: unit,
     value: value
