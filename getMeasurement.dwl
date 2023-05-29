@@ -1,6 +1,7 @@
-fun getMeasurement(value: Number, unit: String, code: String)=
+fun getMeasurement(value: Number, unit: String, code: String, description: String)=
 {
     unit: unit,
-    value: value,
-    code: code
+    value: value, 
+    code: code,
+    description: description
 }
